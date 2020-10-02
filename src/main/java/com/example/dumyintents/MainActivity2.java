@@ -24,7 +24,7 @@ public class MainActivity2 extends AppCompatActivity {
         getIntent().hasExtra("nombre_extra");
 
 
-        nombre_recibido.setText(p_recibida.getRut()); 
+        nombre_recibido.setText(p_recibida.getRut());
 
 
     }
